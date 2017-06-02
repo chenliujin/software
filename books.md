@@ -5,5 +5,8 @@
 # EPUB
 - Adobe Digital Editions
 
+# EPUB to PDF
+- http://www.epub-to-pdf.com/
+
 
 - [我是TXT电子书](http://www.iamtxt.com/)
