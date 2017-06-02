@@ -1,6 +1,7 @@
 
 
 - [ELKstack 中文指南](https://kibana.logstash.es/content/)
+- [小蜜蜂在线电子书转换器](http://cn.epubee.com/)
 
 # EPUB
 - Adobe Digital Editions
