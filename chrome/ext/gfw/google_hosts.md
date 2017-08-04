@@ -1,7 +1,7 @@
 
-- [2017 Google hosts](https://laod.cn/hosts/2017-google-hosts.html)
 - https://github.com/wangchunming/2017hosts
 - https://github.com/laodcn/hosts
+- [2017 Google hosts](https://laod.cn/hosts/2017-google-hosts.html)
 
 # DNS 设置
 - 208.67.222.222（OpenDNS）
