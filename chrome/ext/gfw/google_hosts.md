@@ -1,5 +1,4 @@
 
-- https://github.com/wangchunming/2017hosts
 - [2017 Google hosts](https://laod.cn/hosts/2017-google-hosts.html)
 
 # DNS 设置
